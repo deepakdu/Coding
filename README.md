@@ -16,8 +16,8 @@
 - **rend()**
 - **size()**
 - **capacity()**
-- **initialize a 2d and 3d vector
-- **INT_MAX,INT_MIN fuction
+- **initialize a 2d and 3d vector**
+- **INT_MAX,INT_MIN fuction**
 
 ### 6 August 2019
 ## leetcode
