@@ -4,9 +4,6 @@
 ### LeetCode Questions
 - **Duplicate Email**
 - **Majority Element**
-## Technical Skill
-- [Theory of Computation](https://youtu.be/eqCkkC9A0Q4) 1.Inroduction to TOC and DFA 
- by **Ravindrababu Ravula**
 ## 10-August-2019
 ### LeetCode Questions
 - **Single Number**
