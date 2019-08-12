@@ -1,5 +1,11 @@
 # Coding
 ## Online coding platform
+## 12-August-2019
+### LeetCode Questions
+- **Defanging an IP address**
+- **To LowerCase**
+- **Peek index of Mountain**
+- **Sort array Priority **
 ## 11-August-2019
 ### LeetCode Questions
 - **Duplicate Email**
