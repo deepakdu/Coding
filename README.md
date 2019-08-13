@@ -1,5 +1,9 @@
 # Coding
 ## Online coding platform
+## 13-August-2019
+### LeetCode Questions
+- **Divisor Game**
+- **Sort array by parity 2**
 ## 12-August-2019
 ### LeetCode Questions
 - **Defanging an IP address**
