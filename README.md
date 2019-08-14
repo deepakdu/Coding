@@ -1,5 +1,12 @@
 # Coding
 ## Online coding platform
+## 14-August-2019
+### Technical skill
+- **Pointer**
+- **Structure**
+- **Class**
+- **Access modifier**
+- **Recursion **
 ## 13-August-2019
 ### LeetCode Questions
 - **Divisor Game**
