@@ -6,7 +6,7 @@
 - **Structure**
 - **Class**
 - **Access modifier**
-- **Recursion **
+- **Recursion**
 ## 13-August-2019
 ### LeetCode Questions
 - **Divisor Game**
