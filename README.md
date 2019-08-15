@@ -30,7 +30,7 @@
 ## 10-August-2019
 ### LeetCode Questions
 - **Single Number**
-- **Sum-II**
+- **Sqrt(x)**
 ## 8-August-2019
 ### Leet Code Questions
 - **[Reverse Integer](https://leetcode.com/problems/reverse-integer/)**
