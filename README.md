@@ -1,5 +1,11 @@
 # Coding
 ## Online coding platform
+## 15-August-2019
+### LeetCode Questions
+- **Single Number**
+- **Height Checker**
+- **Haming Distance**
+- **Jewels and Stones.**
 ## 14-August-2019
 ### Technical skill
 - **Pointer**
