@@ -37,7 +37,6 @@
 - **[Plus One](https://leetcode.com/problems/plus-one/)**
 - **[Two Sum](https://leetcode.com/problems/two-sum/)**
 - **[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)**
-- **[3sum](https://leetcode.com/problems/3sum/)**
 
 ### Technical skill
 - **STL-(Vector)**
