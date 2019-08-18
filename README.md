@@ -1,5 +1,10 @@
 # Coding
 ## Online coding platform
+## 16-August-2019
+### LeetCode Questions
+- **Remove Element from sorted array.**
+- **Square of sorted arrar**
+- **Related sort Array*.
 ## 15-August-2019
 ### LeetCode Questions
 - **Single Number**
