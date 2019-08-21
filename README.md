@@ -1,5 +1,8 @@
 # Coding
 ## Online coding platform
+## 21-August-2019
+### LeetCode Questions
+- **Remove Element**
 ## 16-August-2019
 ### LeetCode Questions
 - **Remove Element from sorted array.**
